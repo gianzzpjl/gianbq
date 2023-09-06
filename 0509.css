@@ -1,0 +1,57 @@
+section{
+    color: rgb(0, 0, 0);
+    margin: 1em;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+ul, li{
+    list-style-type: style none;;
+}
+body{
+    background-color: darkgray;
+}
+header{
+    background-color: dimgray;
+    padding: 2em;
+    text-align: center;
+    
+
+}
+.ney-brun{
+
+    width: 850px;
+}
+.ney{
+
+
+    width: 500px;
+}
+.menu{
+
+    font-weight: 900px;
+
+
+}
+h2{
+font-size: smaller;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+header h1{
+    font-size: 120px;
+    font-weight: 1200px;
+}
+header h2{
+    font-size: 60px;
+
+}
+header h3{
+    font-size: 20px;
+    color:rgb(92, 165, 92) ;
+    font-style: oblique;
+
+}
